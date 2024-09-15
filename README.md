@@ -1,6 +1,7 @@
 # Spring BOot and REACt Js sorting visualizer
 ![2024-09-16 02-18-57](https://github.com/user-attachments/assets/305eab48-63df-4618-a39f-a3f2072a70ba)
 
+![Untitled](https://github.com/user-attachments/assets/559871f8-4760-4fa6-a719-cae7228fd17b)
 
 SPRING BOOT AND REACT JS SORTING VISUALIZER.
 beta mode. more sorting will be added and a better UI expereince
